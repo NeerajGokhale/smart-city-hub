@@ -3,4 +3,5 @@ dist
 dist-ssr
 *.local
 .DS_Store
-.envsupabase_reset.sql
+.env
+supabase_reset.sql
